@@ -1,0 +1,110 @@
+.bacground {
+    background-color: #0000008f;
+    width: 1500px;
+    height: 1600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+.bacground_line {
+    background-color: #fdfdfd;
+    width: 87%;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 5%;
+    margin-top: 5%;
+    justify-content: space-around;
+    padding-top: 30px;
+}
+.bacground_line__firct {
+    width: 270px;
+    height: 140px;
+    border-radius: 5px;
+    background: linear-gradient(to bottom, #4568DC, #b06ab3);
+    
+}
+#foto_captain_America {
+    bottom: 37px;
+    position: relative;
+    width: 120px;
+    height: 180px;
+}
+
+.bacground_line__second {
+    width: 270px;
+    height: 140px;
+    border-radius: 5px;
+    background: linear-gradient(to right, #e52d27, #b31217); 
+}
+#foto_Iron_man {
+    bottom: 37px;
+    position: relative;
+    width: 170px;
+    height: 163px;
+}
+.bacground_line__third {
+    width: 270px;
+    height: 140px;
+    border-radius: 5px;
+    background: linear-gradient(to right, #000, #61045f);
+}
+#foto_black_widow {
+    bottom: 37px;
+    position: relative;
+    width: 100px;
+    height: 165px;
+}
+.bacground_line__fourth {
+    width: 270px;
+    height: 140px;
+    border-radius: 5px;
+    background: linear-gradient(to bottom, #e52d27, #000);
+}
+#foto__spider_Man {
+    bottom: 14px;
+    position: relative;
+    width: 120px;
+    height: 180px;
+}
+.bacground_square {
+    background-color: #fdfdfd;
+    width: 45%;
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 5%;
+    margin-top: 3%;
+    justify-content: space-around;
+    padding-top: 30px;
+}
+.bacground_ractangle {
+    background-color: #fdfdfd;
+    width: 22%;
+    height: 700px;
+    display: flex;
+    flex-direction: row;
+    flex-flow: row wrap;
+    margin-left: 5%;
+    margin-top: 3%;
+    justify-content: space-around;
+    padding-top: 30px; 
+}
+.text {
+    float: left;
+    padding: 0 10px 10px 0;
+    display: flex;
+    align-items: flex-end;
+    
+}
+p {
+    color: rgb(250, 250, 250);
+    font-size: 14px;
+    text-align: end;
+    margin-right: 10px;
+}
+b {
+    font-size: 17px;
+    
+}
