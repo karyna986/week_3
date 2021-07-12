@@ -23,7 +23,6 @@ p {
     margin: 0 0 10px;
 }
 
-
 /* Container
 ===================*/
 .container {
@@ -33,10 +32,8 @@ p {
     padding: 0 15px;
 }
 
-
 /* Header
 ===================*/
-
 .header {
     width: 100%;
     height: 100px;
@@ -55,8 +52,6 @@ p {
 
     border-bottom: 1px solid #515369;
 }
-
-
 /* Nav
 ===================*/
 
@@ -76,15 +71,12 @@ p {
 
     transition: opacity .1s linear;
 }
-
 .nav__link:first-child {
     margin-left: 0;
 }
-
 .nav__link:hover {
     opacity: 1;
 }
-
 
 /* Intro
 ===================*/
@@ -99,7 +91,6 @@ p {
     background: #31344e url("img/intro-bg.jpg") center no-repeat; 
     background-size: cover;
 }
-
 .intro__inner {
     width: 100%;
     max-width: 970px;
@@ -107,7 +98,6 @@ p {
 
     text-align: center;
 }
-
 .intro__title {
     margin: 0 0 30px;
 
@@ -118,7 +108,6 @@ p {
     font-weight: 700;
     text-transform: uppercase;
 }
-
 .intro__subtitle {
     margin-bottom: 60px;
 
@@ -127,7 +116,6 @@ p {
     line-height: 1.5;
     font-weight: 400;
 }
-
 
 /* Button
 ===================*/
@@ -150,7 +138,6 @@ p {
 
     transition: background .1s linear;
 }
-
 .btn--red {
     background-color: #e84545;
 }
@@ -162,8 +149,6 @@ p {
 .btn--long {
     min-width: 280px;
 }
-
-
 
 /* Features
 ===================*/
@@ -180,11 +165,9 @@ p {
 
     text-align: center;
 }
-
 .features__icon {
     margin-bottom: 25px;
 }
-
 .features__title {
     margin-bottom: 20px;
 
@@ -193,13 +176,11 @@ p {
     font-weight: 700;
     text-transform: uppercase;
 }
-
 .features__text {
     font-size: 14px;
     line-height: 1.5;
     color: #6c7279;
 }
-
 
 /* Works
 ===================*/
@@ -207,7 +188,6 @@ p {
     display: flex;
     flex-wrap: wrap;
 }
-
 .works__item {
     width: 25%;
     height: 350px;
@@ -218,7 +198,6 @@ p {
     position: relative;
     overflow: hidden;
 }
-
 .works__item:hover .works__content {
     opacity: 1;
 }
@@ -266,9 +245,6 @@ p {
     color: #fff;
 }
 
-
-
-
 /* Team
 ===================*/
 .team {
@@ -300,7 +276,6 @@ p {
     font-size: 22px;
     color: #2d3033;
 }
-
 .team__prof {
     margin-bottom: 15px;
 
@@ -308,7 +283,6 @@ p {
     color: #e84545;
     text-transform: uppercase;
 }
-
 .team__text {
     margin-bottom: 20px;
 
@@ -316,8 +290,6 @@ p {
     line-height: 1.5;
     color: #6c7279;
 }
-
-
 
 /* Social
 ===================*/
@@ -358,11 +330,9 @@ p {
     border-color: #fff;
     border-radius: 2px;
 }
-
 .social--footer .social__item:hover {
     background-color: #fff;
 }
-
 .social__icon {
     display: block;
     height: 18px;
@@ -371,12 +341,9 @@ p {
 
     transition: fill .1s linear;
 }
-
 .social--footer .social__icon {
     fill: #fff;
 }
-
-
 
 /* Reviews
 ===================*/
@@ -431,8 +398,6 @@ p {
     color: #fff;
 }
 
-
-
 /* Download
 ===================*/
 
@@ -458,8 +423,6 @@ p {
     font-weight: 700;
     text-transform: uppercase;
 }
-
-
 
 /* Footer
 ===================*/
@@ -503,8 +466,6 @@ p {
     color: rgba(255, 255, 255, .5);
 }
 
-
-
 /* Copyright
 ===================*/
 
@@ -513,14 +474,12 @@ p {
 
     background-color: #313454;
 }
-
 .copyright__text {
     text-align: center;
     font-size: 14px;
     line-height: 1.5;
     color: #808080;
 }
-
 .copyright__text span {
     color: #fff;
 }
